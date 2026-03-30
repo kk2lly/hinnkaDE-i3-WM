@@ -66,6 +66,6 @@ Then, type copy the desktop session file:
 
 4: Once done, log out to change desktop session to ''hinnkaDE i3'' and log back on and done!
 
-NOTE: If you forgot to do `chmod +x hinnkaDE-i3.sh` or installing `i3` and `xfce4-palne`, it may not working
+NOTE: If you forgot to do `sudo chmod +x /usr/local/bin/hinnkaDE-i3/hinnkaDE.sh` or installing `i3` and `xfce4-palne`, it may not working
 
 -----------------------------
