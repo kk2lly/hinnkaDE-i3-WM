@@ -53,7 +53,7 @@ Before doing that, create `xsessions` like this:
 
 Then, type copy the desktop session file:
 
-sudo cp hinnkaDE-i3.desktop /usr/share/xsessions/
+`sudo cp hinnkaDE-i3.desktop /usr/share/xsessions/`
 
 -----------------------------
 
