@@ -1,0 +1,8 @@
+#!/usr/local/bin/hinnkaDE-i3/ xdg-open
+[Desktop Entry]
+Name=hinnkaDE i3 WM
+Comment=Log in using the hinnkaDE i3 WM
+Exec=/usr/local/bin/hinnkaDE-i3/hinnkaDE.sh
+TryExec=/usr/local/bin/hinnkaDE-i3/hinnkaDE.sh
+Icon=openbox
+Type=Application
