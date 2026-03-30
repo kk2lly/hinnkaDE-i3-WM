@@ -38,7 +38,7 @@ Once done, type `cd hinnkaDE-i3-WM`
 
 Copy the bash script to: `/usr/local/bin/hinnkaDE-i3` or `/bin/hinnkaDE-i3`
 
-`sudo cp hinnkaDE.sh /usr/local/bin/hinnkaDE/hinnkaDE-i3` or `sudo cp hinnkaDE.sh /bin/hinnkaDE/hinnkaDE-i3`
+`sudo cp hinnkaDE.sh /usr/local/bin/hinnkaDE-i3` or `sudo cp hinnkaDE.sh /bin/hinnkaDE-i3`
 
 Copy the wallpaper image to: `/usr/local/bin/hinnkaDE-i3` or `/bin/hinnkaDE-i3`
 
