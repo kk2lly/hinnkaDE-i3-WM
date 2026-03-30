@@ -32,17 +32,21 @@ Once done, type `cd hinnkaDE-i3-WM`
 
 
 
-2: Make `hinnkaDE-i3` folder on `/usr/local/bin` or `/bin` like this:
+2: Make `hinnkaDE-i3` folder on `/usr/local/bin` like this:
 
-`sudo mkdir /usr/local/bin/hinnkaDE-i3` or `sudo mkdir /bin/hinnkaDE-i3`
+`sudo mkdir /usr/local/bin/hinnkaDE-i3`
 
-Copy the bash script to: `/usr/local/bin/hinnkaDE-i3` or `/bin/hinnkaDE-i3`
+Copy the bash script to: `/usr/local/bin/hinnkaDE-i3`
 
-`sudo cp hinnkaDE.sh /usr/local/bin/hinnkaDE-i3` or `sudo cp hinnkaDE.sh /bin/hinnkaDE-i3`
+`sudo cp hinnkaDE.sh /usr/local/bin/hinnkaDE-i3`
 
-Copy the wallpaper image to: `/usr/local/bin/hinnkaDE-i3` or `/bin/hinnkaDE-i3`
+Make shell file executable:
 
-`sudo cp Wallpaper.png /usr/local/bin/hinnkaDE-i3` or `sudo cp Wallpaper.png /bin/hinnkaDE-i3`
+`sudo chmod +x /usr/local/bin/hinnkaDE-i3/hinnkaDE.sh`
+
+Copy the wallpaper image to: `/usr/local/bin/hinnkaDE-i3`
+
+`sudo cp Wallpaper.png /usr/local/bin/hinnkaDE-i3`
 
 
 
