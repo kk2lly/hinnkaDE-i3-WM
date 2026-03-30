@@ -25,14 +25,38 @@ Get `install.sh` from [release](https://github.com/kk2lly/hinnkaDE-i3-WM/release
 
 # Manual:
 
-The [bash](https://github.com/kk2lly/hinnkaDE-i3-WM/blob/main/hinnkaDE.sh) script must be to `/usr/local/bin` or `/bin` (feel free to edit)
+1: Open the terminal and type: `git clone https://github.com/kk2lly/hinnkaDE-i3-WM/`
 
-The [wallpaper image](https://github.com/kk2lly/hinnkaDE-i3-WM/blob/main/Wallpaper.png) also must be to `/usr/local/bin` or `/bin` (feel free to change the wallpaper whatever its png file)
+Once done, type `cd hinnkaDE`
 
-The [desktop session](https://github.com/kk2lly/hinnkaDE-i3-WM/blob/main/hinnkaDE-i3.desktop) file must be to `/usr/share/xsession` (keep default or edit)
+-----------------------------
 
-Once done, log out to change desktop session to ''hinnkaDE'' and log back on and done!
+2: Make `hinnkaDE` folder on `/usr/local/bin` or `/bin` like this:
 
-NOTE: If you forgot to do `chmod +x hinnkaDE.sh` or installing `i3`/`ie-wm` and `xfce4-palne`, it may not working
+`sudo mkdir /usr/local/bin/hinnkaDE-i3` or `sudo mkdir /bin/hinnkaDE-i3`
+
+`sudo cp hinnkaDE.sh /usr/local/bin/hinnkaDE/hinnkaDE-i3` or `sudo cp hinnkaDE.sh /bin/hinnkaDE/hinnkaDE-i3`
+
+Copy the wallpaper image to: `/usr/local/bin/hinnkaDE-i3` or `/bin/hinnkaDE-i3`
+
+`sudo cp Wallpaper.png /usr/local/bin/hinnkaDE-i3` or `sudo cp Wallpaper.png /bin//hinnkaDE-i3`
+
+-----------------------------
+
+3: Copy the desktop session file must be to `/usr/share/xsessions`
+
+Before doing that, create `xsessions` like this:
+
+`sudo mkdir /usr/share/xsessions`
+
+Then, type copy the desktop session file:
+
+sudo cp hinnkaDE-i3.desktop /usr/share/xsessions/
+
+-----------------------------
+
+4: Once done, log out to change desktop session to ''hinnkaDE i3'' and log back on and done!
+
+NOTE: If you forgot to do `chmod +x hinnkaDE-i3.sh` or installing `i3` and `xfce4-palne`, it may not working
 
 -----------------------------
