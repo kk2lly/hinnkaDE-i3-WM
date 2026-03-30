@@ -27,7 +27,7 @@ Get `install.sh` from [release](https://github.com/kk2lly/hinnkaDE-i3-WM/release
 
 1: Open the terminal and type: `git clone https://github.com/kk2lly/hinnkaDE-i3-WM/`
 
-Once done, type `cd hinnkaDE`
+Once done, type `cd hinnkaDE-i3-WM`
 
 
 
@@ -36,13 +36,13 @@ Once done, type `cd hinnkaDE`
 
 `sudo mkdir /usr/local/bin/hinnkaDE-i3` or `sudo mkdir /bin/hinnkaDE-i3`
 
-Copy the bash script to: `/usr/local/bin/hinnkaDE` or `/bin/hinnkaDE`
+Copy the bash script to: `/usr/local/bin/hinnkaDE-i3` or `/bin/hinnkaDE-i3`
 
 `sudo cp hinnkaDE.sh /usr/local/bin/hinnkaDE/hinnkaDE-i3` or `sudo cp hinnkaDE.sh /bin/hinnkaDE/hinnkaDE-i3`
 
 Copy the wallpaper image to: `/usr/local/bin/hinnkaDE-i3` or `/bin/hinnkaDE-i3`
 
-`sudo cp Wallpaper.png /usr/local/bin/hinnkaDE-i3` or `sudo cp Wallpaper.png /bin//hinnkaDE-i3`
+`sudo cp Wallpaper.png /usr/local/bin/hinnkaDE-i3` or `sudo cp Wallpaper.png /bin/hinnkaDE-i3`
 
 
 
