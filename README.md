@@ -29,7 +29,8 @@ Get `install.sh` from [release](https://github.com/kk2lly/hinnkaDE-i3-WM/release
 
 Once done, type `cd hinnkaDE`
 
------------------------------
+
+
 
 2: Make `hinnkaDE-i3` folder on `/usr/local/bin` or `/bin` like this:
 
@@ -43,7 +44,8 @@ Copy the wallpaper image to: `/usr/local/bin/hinnkaDE-i3` or `/bin/hinnkaDE-i3`
 
 `sudo cp Wallpaper.png /usr/local/bin/hinnkaDE-i3` or `sudo cp Wallpaper.png /bin//hinnkaDE-i3`
 
------------------------------
+
+
 
 3: Copy the desktop session file must be to `/usr/share/xsessions`
 
@@ -55,7 +57,8 @@ Then, type copy the desktop session file:
 
 `sudo cp hinnkaDE-i3.desktop /usr/share/xsessions/`
 
------------------------------
+
+
 
 4: Once done, log out to change desktop session to ''hinnkaDE i3'' and log back on and done!
 
