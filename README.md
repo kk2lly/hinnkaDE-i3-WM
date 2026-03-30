@@ -29,7 +29,7 @@ The [bash](https://github.com/kk2lly/hinnkaDE-i3-WM/blob/main/hinnkaDE.sh) scrip
 
 The [wallpaper image](https://github.com/kk2lly/hinnkaDE-i3-WM/blob/main/Wallpaper.png) also must be to `/usr/local/bin` or `/bin` (feel free to change the wallpaper whatever its png file)
 
-The [desktop session](https://github.com/kk2lly/hinnkaDE-i3-WM/blob/main/hinnkaDE.desktop) file must be to `/usr/share/xsession` (keep default or edit)
+The [desktop session](https://github.com/kk2lly/hinnkaDE-i3-WM/blob/main/hinnkaDE-i3.desktop) file must be to `/usr/share/xsession` (keep default or edit)
 
 Once done, log out to change desktop session to ''hinnkaDE'' and log back on and done!
 
