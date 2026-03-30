@@ -1,0 +1,8 @@
+#!/usr/local/bin/hinnkaDE-i3/ xdg-open
+[Desktop Entry]
+Name=hinnkaDE
+Comment=Log in using the hinnkaDE
+Exec=/usr/local/bin/hinnkaDE-i3//hinnkaDE.sh
+TryExec=/usr/local/bin/hinnkaDE-i3//hinnkaDE.sh
+Icon=openbox
+Type=Application   
