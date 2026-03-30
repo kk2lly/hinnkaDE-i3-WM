@@ -31,7 +31,7 @@ Once done, type `cd hinnkaDE`
 
 -----------------------------
 
-2: Make `hinnkaDE` folder on `/usr/local/bin` or `/bin` like this:
+2: Make `hinnkaDE-i3` folder on `/usr/local/bin` or `/bin` like this:
 
 `sudo mkdir /usr/local/bin/hinnkaDE-i3` or `sudo mkdir /bin/hinnkaDE-i3`
 
