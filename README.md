@@ -25,7 +25,11 @@ Get `install.sh` from [release](https://github.com/kk2lly/hinnkaDE-i3-WM/release
 
 # Manual:
 
-1: Open the terminal and type: `https://github.com/HinnkaStudios-Open-Sources-Project/hinnkaDE-i3-WM`
+1: Open the terminal and type: 
+
+`git clone https://github.com/kk2lly/hinnkaDE-i3-WM`
+
+`git clone https://github.com/HinnkaStudios-Open-Sources-Project/hinnkaDE-i3-WM`
 
 Once done, type `cd hinnkaDE-i3-WM`
 
